@@ -6,3 +6,7 @@
 .Read-More {
   float: right button;
 }
+
+pull-right {
+  float: right Read More;
+}
